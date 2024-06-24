@@ -1,5 +1,5 @@
 # Optirol
-Optirol is a software for optimal control of nonlinear systems, which can be described by ordinary differential equations. Written in C#, now the code works in [Microsoft Visual Studio Community 2019](https://visualstudio.microsoft.com/vs/) and was updated using VS Community 2022 Preview 4.
+Optirol is a software for optimal control of nonlinear systems, which can be described by ordinary differential equations. Written in C#, now the code works in [Microsoft Visual Studio Community 2019](https://visualstudio.microsoft.com/vs/) and was updated using VS Community 2022 Preview 4. You might have to ['unblock' resx file](https://learn.microsoft.com/en-us/visualstudio/msbuild/errors/msb3821).
 
 Publications:
 * P. Taraba: [Subdivision algorithm for optimal control](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.2801), International Journal of Robust and Nonlinear Control, John Wiley & Sons, Ltd., March 2012
